@@ -1,0 +1,88 @@
+.ui-article blockquote {
+  border-left: 4px solid #999;
+  margin: 0;
+  padding-left: 16px; }
+
+.ui-article a {
+  color: #0366d6; }
+
+.ui-article h1 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  font-size: 30px; }
+
+.ui-article h2 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  font-size: 25px; }
+
+.ui-article h3 {
+  font-size: 22px;
+  margin-top: 15px;
+  margin-bottom: 15px; }
+
+.ui-article h4 {
+  font-size: 20px; }
+
+.ui-article h5,
+.ui-article h6 {
+  font-size: 20px; }
+
+.ui-article p {
+  line-height: 1.7;
+  margin-bottom: 15px; }
+
+.ui-article img {
+  margin-bottom: 16px;
+  max-width: 100%; }
+
+.ui-article ul {
+  list-style: disc; }
+
+.ui-article ol {
+  list-style: decimal; }
+
+.ui-article li {
+  line-height: 1.6;
+  margin-bottom: 8px;
+  list-style-type: inherit; }
+
+.ui-article ul,
+.ui-article ol {
+  padding-left: 16px;
+  margin-bottom: 16px; }
+  .ui-article ul ul,
+  .ui-article ul ol,
+  .ui-article ol ul,
+  .ui-article ol ol {
+    margin-top: 8px;
+    padding-left: 40px; }
+
+.ui-article ul ul,
+.ui-article ol ul {
+  list-style-type: circle; }
+
+.ui-article ol ol ul,
+.ui-article ol ul ul,
+.ui-article ul ol ul,
+.ui-article ul ul ul {
+  list-style-type: square; }
+
+.ui-article table {
+  max-width: 100%;
+  margin-bottom: 16px; }
+  .ui-article table th,
+  .ui-article table td {
+    padding: 8px 16px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border: 1px solid #ddd; }
+
+.ui-article code {
+  margin: 0 4px; }
+
+.ui-article > code {
+  margin-bottom: 16px;
+  padding: 16px; }
